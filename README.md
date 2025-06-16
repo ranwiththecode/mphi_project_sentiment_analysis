@@ -12,4 +12,4 @@ Python, VADER, NLTK, Google Sheets
 - Across 1,142,962 analyzed sentiments, reader reviews skewed overwhelmingly positive (69.5%), with only 14.8% negative and 15.6% neutral responses.
 
 ## License
-This project is licensed under the [MIT License] (LICENSE).
+This project is licensed under the [MIT License](LICENSE)
